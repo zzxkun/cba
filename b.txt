@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 1111
 xxxx
 gggg
-wwww
+www
+
